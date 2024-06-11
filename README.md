@@ -30,4 +30,16 @@ With 14 years of experience in software development, I've specialized in backend
 
 ## Achievements
 
-- IBM Recognition: Certificate of Outstanding Technical Achievement, April 2017
+<p align="left">
+  <img width="250" style="padding:0 10px 10px 0;" src="image.png" />
+  <img width="250" style="padding:0 10px 10px 0;" src="image (7).png" />
+  <br /><br />
+  <img width="150" style="padding:0 10px 10px 0;" src="image (3).png" />
+  <img width="150" style="padding:0 10px 10px 0;" src="image (4).png" />
+  <img width="150" style="padding:0 10px 10px 0;" src="image (5).png" />
+  <br /><br />
+  <img width="150" style="padding:0 10px 10px 0;" src="image (1).png" />
+  <img width="150" style="padding:0 10px 10px 0;" src="image (2).png" />
+  <img width="150" style="padding:0 10px 10px 0;" src="image (6).png" />
+  
+</p>
