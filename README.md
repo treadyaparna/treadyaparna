@@ -2,7 +2,7 @@
 
 **`Senior Software Engineer`**
 
-With 14 years of software development experience, I excel as a Senior Software Engineer, bringing expertise in leading teams and mentoring interns. I've led teams of 6-7 members for 2 years, driving successful project outcomes. As a mentor, I've guided a few interns and junior developers, fostering their growth and development. I hold a Bachelor of Technology in Computer Science and Engineering, earned in 2008, providing a solid foundation for my career. Dedicated, adaptable, and results-oriented, I consistently deliver high-quality solutions while contributing to team success.
+With 14 years of experience in software development, I've specialized in backend technologies such as PHP, Node.js, and Java, as well as frontend frameworks like React and Angular. I thrive on building distributed systems, crafting microservices, and leveraging platforms like IBM Cloud and AWS Cloud. Passionate about system design, I've led successful projects by guiding teams with dedication and adaptability. I take pride in mentoring interns and junior developers, helping them grow in their roles. My commitment is to deliver high-quality solutions and consistently contribute to the success of the team.
 
 🔗 [linkedin.com/aparnasaha](https://www.linkedin.com/in/aparnasaha/) 
 
@@ -21,11 +21,13 @@ With 14 years of software development experience, I excel as a Senior Software E
   <a href="https://redis.io/" target="_blank" rel="noreferrer"><img alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></a>
   <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"><img alt="Elasticsearch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" /></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /></a>
+  <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/" target="_blank" rel="noreferrer"><img alt="GitLab CI/CD" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /></a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /></a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img alt="Apache Spark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" /></a>
+  <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img alt="Scala" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" /></a>
 </p>
 
-## Find Me
+## Achievements
 
-<p align="left"> 
-  <a href="https://www.github.com/treadyaparna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="25" height="25" /></a> 
-  <a href="https://www.linkedin.com/in/aparnasaha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="25" height="25" /></a> 
-</p>
+- IBM Recognition: Certificate of Outstanding Technical Achievement, April 2017
