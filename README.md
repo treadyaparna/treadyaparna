@@ -23,11 +23,6 @@ With 14 years of software development experience, I excel as a Senior Software E
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
 </p>
 
-## Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=treadyaparna&show_icons=true&count_private=true)  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=treadyaparna)  
-
 ## Find Me
 
 <p align="left"> 
