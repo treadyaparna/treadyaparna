@@ -31,15 +31,13 @@ With 14 years of experience in software development, I've specialized in backend
 ## Achievements
 
 <p align="left">
-  <img width="250" style="padding:0 10px 10px 0;" src="image.png" />
-  <img width="250" style="padding:0 10px 10px 0;" src="image (7).png" />
-  <br /><br />
-  <img width="150" style="padding:0 10px 10px 0;" src="image (3).png" />
-  <img width="150" style="padding:0 10px 10px 0;" src="image (4).png" />
-  <img width="150" style="padding:0 10px 10px 0;" src="image (5).png" />
-  <br /><br />
-  <img width="150" style="padding:0 10px 10px 0;" src="image (1).png" />
-  <img width="150" style="padding:0 10px 10px 0;" src="image (2).png" />
-  <img width="150" style="padding:0 10px 10px 0;" src="image (6).png" />
+  <img width="100" style="padding:0 10px 10px 0;" src="image.png" />
+  <img width="100" style="padding:0 10px 10px 0;" src="image (7).png" />
+  <img width="75" style="padding:0 10px 10px 0;" src="image (3).png" />
+  <img width="75" style="padding:0 10px 10px 0;" src="image (4).png" />
+  <img width="75" style="padding:0 10px 10px 0;" src="image (5).png" />
+  <img width="75" style="padding:0 10px 10px 0;" src="image (1).png" />
+  <img width="75" style="padding:0 10px 10px 0;" src="image (2).png" />
+  <img width="75" style="padding:0 10px 10px 0;" src="image (6).png" />
   
 </p>
