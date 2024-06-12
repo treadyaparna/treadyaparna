@@ -31,13 +31,16 @@ With 14 years of experience in software development, I've specialized in backend
 ## Achievements
 
 <p align="left">
-  <img width="100" style="padding:0 10px 10px 0;" src="image.png" />
-  <img width="100" style="padding:0 10px 10px 0;" src="image (7).png" />
-  <img width="75" style="padding:0 10px 10px 0;" src="image (3).png" />
-  <img width="75" style="padding:0 10px 10px 0;" src="image (4).png" />
-  <img width="75" style="padding:0 10px 10px 0;" src="image (5).png" />
-  <img width="75" style="padding:0 10px 10px 0;" src="image (1).png" />
-  <img width="75" style="padding:0 10px 10px 0;" src="image (2).png" />
-  <img width="75" style="padding:0 10px 10px 0;" src="image (6).png" />
-  
+  <img width="250" style="padding:0 10px 10px 0;" src="image.png" />
+</p>
+
+## Certifications
+
+<p align="left">
+  <a href="https://www.testdome.com/certificates/1f49f88895fb496fbfd3856e6f9bd9b1"><img width="100" style="padding:0 10px 10px 0;" src="image (7).png" /></a>
+  <a href="https://www.credly.com/badges/a0570710-065d-4978-bf40-c8dbe6e65c3f"><img width="75" style="padding:0 10px 10px 0;" src="image (3).png" /></a>
+  <a href="https://www.credly.com/badges/23aea0ab-3c77-46ac-8d49-f6cdf6c8fb75"><img width="75" style="padding:0 10px 10px 0;" src="image (5).png" /></a>
+  <a href="https://www.credly.com/badges/e9d4e073-92be-4449-a2e2-7c15849d773c"><img width="75" style="padding:0 10px 10px 0;" src="image (1).png" /></a>
+  <a href="https://www.credly.com/badges/fc8245c9-6487-44a4-a194-696da1307b29"><img width="75" style="padding:0 10px 10px 0;" src="image (2).png" /></a>
+  <a href="https://www.credly.com/badges/fee22b7d-0cad-4ee1-b5dc-0c435132f896/linked_in_profile"<img width="75" style="padding:0 10px 10px 0;" src="image (6).png" /></a>
 </p>
