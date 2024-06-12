@@ -42,5 +42,5 @@ With 14 years of experience in software development, I've specialized in backend
   <a href="https://www.credly.com/badges/23aea0ab-3c77-46ac-8d49-f6cdf6c8fb75"><img width="75" style="padding:0 10px 10px 0;" src="image (5).png" /></a>
   <a href="https://www.credly.com/badges/e9d4e073-92be-4449-a2e2-7c15849d773c"><img width="75" style="padding:0 10px 10px 0;" src="image (1).png" /></a>
   <a href="https://www.credly.com/badges/fc8245c9-6487-44a4-a194-696da1307b29"><img width="75" style="padding:0 10px 10px 0;" src="image (2).png" /></a>
-  <a href="https://www.credly.com/badges/fee22b7d-0cad-4ee1-b5dc-0c435132f896/linked_in_profile"<img width="75" style="padding:0 10px 10px 0;" src="image (6).png" /></a>
+  <a href="https://www.credly.com/badges/fee22b7d-0cad-4ee1-b5dc-0c435132f896/linked_in_profile"><img width="75" style="padding:0 10px 10px 0;" src="image (6).png" /></a>
 </p>
